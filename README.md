@@ -82,10 +82,10 @@ Created as part of RPA learning using UiPath.
 ## 🖼 Project Screenshots
 
 ### 1. UiPath Workflow
-![Workflow](screenshots/workflow.png)
+![Workflow](screenshots/Screenshot (46).png)
 
 ### 2. Output Excel
-![Excel Output](screenshots/output.png)
+![Excel Output](screenshots/Screenshot (51).png)
 
 ### 3. Folder Structure
 ![Folders](screenshots/folders.png)
